@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html>
 <head>
-  <title> My latest update</title>
+      <title> My latest update</title>
 </head>
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
