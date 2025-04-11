@@ -68,7 +68,7 @@
 <body>
     <div class="container">
         <img src="D:\Deveops_FLM\SCRIPTS\Practices scripts\images.jpg" alt="Runners">
-        <h2>Running Championship Signup</h2>
+        <h2>Running Championship Signup form</h2>
         <form action="/submit-form" method="post">
             <input type="text" name="name" placeholder="Full Name" required>
             <input type="email" name="email" placeholder="Email Address" required>
